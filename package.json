@@ -16,6 +16,7 @@
     "react": "16.13.1",
     "react-native": "0.63.3",
     "react-native-device-info": "^7.0.2",
+    "react-native-lightbox": "^0.8.1",
     "react-native-remote-svg": "^2.0.6",
     "react-native-super-grid": "^4.0.3",
     "react-native-webview": "^10.10.0"
